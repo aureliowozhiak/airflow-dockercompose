@@ -1,39 +1,39 @@
-# Airflow with DockerCompose
+# Airflow local environment
 
-# docker-airflow
+This repository contains a docker-compose to get up and running a local Airflow environment for developing purposes.
+Don't use this in production environments.
 
-This repository contains a **Docker Compose File** of [apache-airflow](https://github.com/apache/incubator-airflow) for [Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/r/apache/airflow) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
+Start the environment with the `docker-compose up` command.
 
-## Informations
+Be aware that in the Dockerfile, it is not specified the Airflow Docker image, so the latest version will be installed.
+It is recommended to specify the same version you have in your production environment.
 
-* Based on Python (3.6-slim-buster) official Image [python:3.6-slim-buster](https://hub.docker.com/_/python/) and uses the official [Postgres](https://hub.docker.com/_/postgres/) as backend and [Redis](https://hub.docker.com/_/redis/) as queue
-* Install [Docker](https://www.docker.com/)
-* Install [Docker Compose](https://docs.docker.com/compose/install/)
-* Following the Airflow release from [Python Package Index](https://pypi.python.org/pypi/apache-airflow)
+# Get started
 
-## Installation
+## Creating dags
 
-Pull the image from the Docker repository.
+Add your dags in the dags folder.
 
-    docker pull apache/airflow:2.0.0
+## Adding variables
 
-## Usage
+In file secrets/variables.yaml you can add variables to be accessed in your DAGs.
 
-By default, docker-airflow runs Airflow with **LocalExecutor** :
+## Adding connections
 
-    docker-compose -f docker-compose.yml up -d
+In file secrets/connections.yaml you can add connections to be accessed in your DAGs.
 
-NB : If you want to have DAGs example loaded (default=False), you've to set the following environment variable :
+## User and password
 
-`AIRFLOW__CORE__LOAD_EXAMPLES`
+When the environment is ready, a user and password authentication will be prompted.
+By default, use these credentials:
 
-in docker-compose.yml
+- user: airflow
+- pass: airflow
 
-If you want to use Ad hoc query, make sure you've configured connections:
-Go to Admin -> Connections and Edit "postgres_default" set this values (equivalent to values in airflow.cfg/docker-compose*.yml) :
-- Host : postgres
-- Schema : airflow
-- Login : postgres
-- Password : postgres
+## Install dependencies
 
-Forked: https://github.com/marclamberti/docker-airflow
+You can add your custom dependencies in the requirements.txt, and install with the following command:
+
+```bash
+pip install -r requirements.txt
+```
