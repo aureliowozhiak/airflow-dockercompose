@@ -3,6 +3,8 @@
 This repository contains a docker-compose to get up and running a local Airflow environment for developing purposes.
 Don't use this in production environments.
 
+This is part of our course: [https://dataengineer.help/cursos/curso-de-engenharia-de-dados/](https://dataengineer.help/cursos/curso-de-engenharia-de-dados/)
+
 Start the environment with the `docker-compose up` command.
 
 Be aware that in the Dockerfile, it is not specified the Airflow Docker image, so the latest version will be installed.
