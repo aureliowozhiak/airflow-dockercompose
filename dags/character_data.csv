@@ -1,0 +1,827 @@
+id,name,status,species,type,gender,origin,quantity_appeared
+1,Rick Sanchez,Alive,Human,,Male,Earth (C-137),51
+2,Morty Smith,Alive,Human,,Male,unknown,51
+3,Summer Smith,Alive,Human,,Female,Earth (Replacement Dimension),42
+4,Beth Smith,Alive,Human,,Female,Earth (Replacement Dimension),42
+5,Jerry Smith,Alive,Human,,Male,Earth (Replacement Dimension),39
+6,Abadango Cluster Princess,Alive,Alien,,Female,Abadango,1
+7,Abradolf Lincler,unknown,Human,Genetic experiment,Male,Earth (Replacement Dimension),2
+8,Adjudicator Rick,Dead,Human,,Male,unknown,1
+9,Agency Director,Dead,Human,,Male,Earth (Replacement Dimension),1
+10,Alan Rails,Dead,Human,Superhuman (Ghost trains summoner),Male,unknown,1
+11,Albert Einstein,Dead,Human,,Male,Earth (C-137),1
+12,Alexander,Dead,Human,,Male,Earth (C-137),1
+13,Alien Googah,unknown,Alien,,unknown,unknown,1
+14,Alien Morty,unknown,Alien,,Male,unknown,1
+15,Alien Rick,unknown,Alien,,Male,unknown,1
+16,Amish Cyborg,Dead,Alien,Parasite,Male,unknown,1
+17,Annie,Alive,Human,,Female,Earth (C-137),1
+18,Antenna Morty,Alive,Human,Human with antennae,Male,unknown,2
+19,Antenna Rick,unknown,Human,Human with antennae,Male,unknown,1
+20,Ants in my Eyes Johnson,unknown,Human,Human with ants in his eyes,Male,unknown,1
+21,Aqua Morty,unknown,Humanoid,Fish-Person,Male,unknown,2
+22,Aqua Rick,unknown,Humanoid,Fish-Person,Male,unknown,3
+23,Arcade Alien,unknown,Alien,,Male,unknown,5
+24,Armagheadon,Alive,Alien,Cromulon,Male,Signus 5 Expanse,1
+25,Armothy,Dead,unknown,Self-aware arm,Male,Post-Apocalyptic Earth,1
+26,Arthricia,Alive,Alien,Cat-Person,Female,Purge Planet,1
+27,Artist Morty,Alive,Human,,Male,unknown,2
+28,Attila Starwar,Alive,Human,,Male,unknown,3
+29,Baby Legs,Alive,Human,Human with baby legs,Male,unknown,1
+30,Baby Poopybutthole,Alive,Poopybutthole,,Male,unknown,1
+31,Baby Wizard,Dead,Alien,Parasite,Male,unknown,1
+32,Bearded Lady,Dead,Alien,Parasite,Female,unknown,1
+33,Beebo,Dead,Alien,,Male,Venzenulon 7,1
+34,Benjamin,Alive,Poopybutthole,,Male,unknown,3
+35,Bepisian,Alive,Alien,Bepisian,unknown,Bepis 9,4
+36,Beta-Seven,Alive,Alien,Hivemind,unknown,unknown,1
+37,Beth Sanchez,Alive,Human,,Female,Earth (C-500A),1
+38,Beth Smith,Alive,Human,,Female,Earth (C-137),8
+39,Beth Smith,Alive,Human,,Female,Earth (Evil Rick's Target Dimension),1
+40,Beth's Mytholog,Dead,Mythological Creature,Mytholog,Female,Nuptia 4,1
+41,Big Boobed Waitress,Alive,Mythological Creature,,Female,Fantasy World,1
+42,Big Head Morty,unknown,Human,Human with giant head,Male,unknown,1
+43,Big Morty,Dead,Human,,Male,unknown,1
+44,Body Guard Morty,Dead,Human,,Male,unknown,1
+45,Bill,Alive,Human,,Male,Earth (C-137),1
+46,Bill,unknown,Animal,Dog,Male,Earth (Replacement Dimension),1
+47,Birdperson,Alive,Alien,Bird-Person,Male,Bird World,7
+48,Black Rick,Alive,Human,,Male,unknown,2
+49,Blamph,Alive,Alien,,unknown,unknown,1
+50,Blim Blam,Alive,Alien,Korblock,Male,unknown,1
+51,Blue Diplomat,Alive,Alien,,Male,unknown,1
+52,Blue Footprint Guy,Dead,Human,,Male,Post-Apocalyptic Earth,1
+53,Blue Shirt Morty,unknown,Human,,Male,unknown,1
+54,Bobby Moynihan,Alive,Human,,Male,unknown,1
+55,Boobloosian,Dead,Alien,Boobloosian,unknown,unknown,2
+56,Bootleg Portal Chemist Rick,Dead,Human,,Male,unknown,1
+57,Borpocian,Alive,Alien,Elephant-Person,Male,unknown,1
+58,Brad,Alive,Human,,Male,Earth (Replacement Dimension),4
+59,Brad Anderson,Dead,Human,,Male,Earth (Replacement Dimension),1
+60,Calypso,Dead,Human,Superhuman,Female,unknown,1
+61,Campaign Manager Morty,Dead,Human,,Male,unknown,1
+62,Canklanker Thom,Dead,Alien,Gromflomite,Male,Gromflom Prime,1
+63,Centaur,Alive,Mythological Creature,Centaur,Male,unknown,1
+64,Chris,Dead,Alien,Organic gun,unknown,unknown,1
+65,Chris,Alive,Humanoid,Microverse inhabitant,Male,Rick's Battery Microverse,1
+66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Vampire,Male,Earth (Replacement Dimension),1
+67,Collector,Alive,Alien,Light bulb-Alien,Male,The Menagerie,1
+68,Colossus,Dead,Human,,Male,Post-Apocalyptic Earth,1
+69,Commander Rick,Dead,Human,,Male,unknown,1
+70,Concerto,Dead,Humanoid,,Male,unknown,1
+71,Conroy,Dead,Robot,,unknown,Earth (Replacement Dimension),1
+72,Cool Rick,Alive,Human,,Male,Earth (K-83),1
+73,Cop Morty,Dead,Human,,Male,unknown,1
+74,Cop Rick,Alive,Human,,Male,unknown,1
+75,Courier Flap,Alive,Alien,,unknown,unknown,1
+76,Cousin Nicky,Dead,Alien,Parasite,Male,unknown,1
+77,Cowboy Morty,Alive,Human,,Male,unknown,1
+78,Cowboy Rick,Alive,Human,,Male,unknown,2
+79,Crab Spider,Alive,Alien,Animal,unknown,Hideout Planet,1
+80,Creepy Little Girl,Alive,Human,,Female,unknown,1
+81,Crocubot,Dead,Animal,Robot-Crocodile hybrid,Male,unknown,1
+82,Cronenberg Rick,unknown,Cronenberg,,Male,Cronenberg Earth,2
+83,Cronenberg Morty,unknown,Cronenberg,,Male,Cronenberg Earth,2
+84,Cult Leader Morty,Alive,Human,,Male,unknown,1
+85,Cyclops Morty,Alive,Humanoid,,Male,unknown,2
+86,Cyclops Rick,Dead,Humanoid,,Male,unknown,3
+87,Cynthia,Dead,Alien,Zigerion,Female,unknown,1
+88,Cynthia,Alive,Human,,Female,Earth (Replacement Dimension),4
+89,Dale,Dead,Mythological Creature,Giant,Male,Giant's Town,1
+90,Daron Jefferson,Alive,Alien,Cone-nippled alien,Male,Unity's Planet,1
+91,David Letterman,Alive,Human,,Male,Earth (C-500A),1
+92,Davin,Dead,Human,,Male,Earth (C-137),2
+93,Diablo Verde,Dead,Mythological Creature,Demon,Male,unknown,1
+94,Diane Sanchez,Dead,Human,,Female,Earth (C-137),2
+95,Dipper and Mabel Mortys,unknown,Human,,unknown,unknown,1
+96,Tuberculosis,Dead,Disease,,unknown,Anatomy Park,1
+97,Gonorrhea,Dead,Disease,,unknown,Anatomy Park,1
+98,Hepatitis A,Dead,Disease,,unknown,Anatomy Park,1
+99,Hepatitis C,Dead,Disease,,unknown,Anatomy Park,1
+100,Bubonic Plague,Dead,Disease,,unknown,Anatomy Park,1
+101,E. Coli,Dead,Disease,,unknown,Anatomy Park,1
+102,Donna Gueterman,Dead,Robot,,Female,unknown,1
+103,Doofus Rick,unknown,Human,,Male,Earth (J19ζ7),2
+104,Doom-Nomitron,Dead,Alien,Shapeshifter,unknown,unknown,1
+105,Dr. Glip-Glop,Dead,Alien,,Male,unknown,1
+106,Dr. Schmidt,unknown,Human,Game,Male,Roy: A Life Well Lived,1
+107,Dr. Wong,Alive,Human,,Female,Earth (Replacement Dimension),2
+108,Dr. Xenon Bloom,Dead,Humanoid,Amoeba-Person,Male,unknown,1
+109,Duck With Muscles,Dead,Alien,Parasite,Male,unknown,1
+110,Eli,Alive,Human,,Male,Post-Apocalyptic Earth,1
+111,Eli's Girlfriend,Alive,Human,,Female,Post-Apocalyptic Earth,1
+112,Eric McMan,Alive,Human,,Male,Earth (C-137),1
+113,Eric Stoltz Mask Morty,unknown,Human,,Male,Eric Stoltz Mask Earth,1
+114,Ethan,unknown,Human,Cronenberg,Male,Earth (C-137),1
+115,Ethan,Alive,Human,,Male,Earth (Replacement Dimension),2
+116,Evil Beth Clone,Dead,Human,Clone,Female,unknown,1
+117,Evil Jerry Clone,Dead,Human,Clone,Male,unknown,1
+118,Evil Morty,Alive,Human,,Male,unknown,3
+119,Evil Rick,Dead,Humanoid,Robot,Male,unknown,1
+120,Evil Summer Clone,Dead,Human,Clone,Female,unknown,1
+121,Eyehole Man,Alive,Alien,,Male,unknown,1
+122,Fart,Dead,Alien,Interdimensional gaseous being,Male,unknown,1
+123,Fat Morty,Alive,Human,,Male,unknown,1
+124,Father Bob,Alive,Human,,Male,Earth (Replacement Dimension),2
+125,Flansian,Alive,Alien,Flansian,unknown,unknown,3
+126,Fleeb,unknown,Alien,,unknown,unknown,1
+127,Frank Palicky,Dead,Human,,Male,Earth (C-137),1
+128,Frankenstein's Monster,Dead,Alien,Parasite,Male,unknown,1
+129,Fulgora,Alive,Human,,Female,unknown,3
+130,Galactic Federation President,Dead,Alien,Gromflomite,Male,unknown,1
+131,Gar Gloonch,Dead,Alien,Zombodian,Male,unknown,3
+132,Gar's Mytholog,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,1
+133,Garblovian,Alive,Alien,Garblovian,Male,Glaagablaaga,3
+134,Garmanarnar,Alive,Alien,,Male,unknown,1
+135,Garment District Rick,Dead,Human,,Male,unknown,1
+136,Gazorpazorpfield,Alive,Alien,Gazorpian,Male,Gazorpazorp,2
+137,Gene,Alive,Human,,Male,Earth (Replacement Dimension),2
+138,General Nathan,Dead,Human,,Male,Earth (Replacement Dimension),1
+139,General Store Owner,Dead,Alien,Cat-Person,Male,Purge Planet,1
+140,Genital Washer,Alive,Human,,Male,Post-Apocalyptic Earth,1
+141,Ghost in a Jar,Dead,Alien,Parasite,Genderless,unknown,1
+142,Gibble Snake,Dead,Alien,Animal,unknown,Resort Planet,1
+143,Glasses Morty,Alive,Human,,Male,unknown,1
+144,Glenn,Dead,Alien,Gromflomite,Male,unknown,1
+145,Glenn,Alive,Human,Eat shiter-Person,Male,unknown,1
+146,Glexo Slim Slom,Alive,Alien,,Male,unknown,1
+147,Gobo,Dead,Alien,,Male,unknown,1
+148,Goddess Beth,unknown,Mythological Creature,Goddess,Female,Nuptia 4,1
+149,Gordon Lunas,Dead,Human,,Male,unknown,1
+150,Cornvelious Daniel,Dead,Alien,Gromflomite,Male,unknown,1
+151,Gwendolyn,unknown,Robot,Gazorpian reproduction robot,Female,Gazorpazorp,1
+152,Hammerhead Morty,unknown,Humanoid,Hammerhead-Person,Male,unknown,2
+153,Hamster In Butt,Alive,Animal,,unknown,Hamster in Butt World,2
+154,Hamurai,Dead,Alien,Parasite,Male,unknown,1
+155,Harold,Alive,Cronenberg,,Male,Earth (C-137),1
+156,Hemorrhage,Alive,Human,,Male,Post-Apocalyptic Earth,1
+157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Hole,Genderless,unknown,1
+158,Hookah Alien,Alive,Alien,Tuskfish,unknown,unknown,1
+159,Hunter,Dead,Human,Clone,Male,Earth (Giant Telepathic Spiders Dimension),1
+160,Hunter's Father,Alive,Human,,Male,Earth (Giant Telepathic Spiders Dimension),1
+161,Hydrogen-F,Alive,Alien,Alphabetrian,Female,Alphabetrium,1
+162,Ice-T,Alive,Alien,Alphabetrian,Male,Alphabetrium,1
+163,Ideal Jerry,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,1
+164,Insurance Rick,unknown,Human,,Male,unknown,1
+165,Investigator Rick,Dead,Human,,Male,unknown,1
+166,Invisi-trooper,Alive,Human,,Male,Earth (Replacement Dimension),1
+167,Izzy,Alive,Animal,Cat,unknown,Earth (Replacement Dimension),1
+168,Jackie,Alive,Alien,Gazorpian,Female,Gazorpazorp,1
+169,Jacob,Alive,Human,,Male,Earth (C-137),2
+170,Jacqueline,Alive,Human,,Female,Earth (Replacement Dimension),1
+171,Jaguar,Alive,Human,,Male,Earth (Replacement Dimension),1
+172,Jamey,Alive,Human,,Male,Earth (Replacement Dimension),1
+173,Jan-Michael Vincent,Alive,Human,,Male,unknown,1
+174,Jerry 5-126,Alive,Human,,Male,Earth (5-126),1
+175,Jerry Smith,Alive,Human,,Male,Earth (C-137),7
+176,Celebrity Jerry,Alive,Human,,Male,Earth (C-500A),1
+177,Jerry Smith,Alive,Human,,Male,Earth (Evil Rick's Target Dimension),1
+178,Jerry's Mytholog,Dead,Mythological Creature,Mytholog,Male,Nuptia 4,1
+179,Jessica,Alive,Cronenberg,,Female,Earth (C-137),3
+180,Jessica,Alive,Human,Time God,Female,Earth (Replacement Dimension),12
+181,Jessica's Friend,Alive,Human,,Female,Earth (C-137),8
+182,Jim,Alive,Human,,Male,Earth (Replacement Dimension),1
+183,Johnny Depp,Alive,Human,,Male,Earth (C-500A),1
+184,Jon,Alive,Alien,Gazorpian,Male,Gazorpazorp,1
+185,Joseph Eli Lipkip,Alive,Human,,Male,Earth (Replacement Dimension),1
+186,Joyce Smith,Alive,Human,,Female,Earth (C-137),1
+187,Juggling Rick,unknown,Human,,Male,unknown,1
+188,Karen Entity,Alive,Alien,Unknown-nippled alien,Female,Unity's Planet,1
+189,Katarina,Dead,Human,,Female,Earth (Replacement Dimension),1
+190,Keara,Alive,Alien,Krootabulan,Female,Krootabulon,1
+191,Kevin,Dead,Alien,Zigerion,Male,unknown,1
+192,King Flippy Nips,Alive,Alien,Plutonian,Male,Pluto,1
+193,King Jellybean,Dead,Mythological Creature,Jellybean,Male,Fantasy World,1
+194,Kozbian,Alive,Alien,Tentacle alien,unknown,unknown,1
+195,Kristen Stewart,Alive,Human,,Female,Earth (C-500A),1
+196,Krombopulos Michael,Dead,Alien,Gromflomite,Male,unknown,1
+197,Kyle,Dead,Humanoid,Miniverse inhabitant,Male,Zeep Xanflorp's Miniverse,1
+198,Lady Katana,Dead,Humanoid,Cyborg,Female,unknown,1
+199,Larva Alien,Alive,Alien,Larva alien,unknown,Larva Alien's Planet,3
+200,Lawyer Morty,unknown,Human,,Male,unknown,1
+201,Leonard Smith,Alive,Human,,Male,Earth (C-137),1
+202,Lighthouse Keeper,Dead,Alien,Cat-Person,Male,Purge Planet,1
+203,Lil B,Dead,Alien,Snail alien,Male,unknown,2
+204,Lisa,Dead,Alien,,Female,unknown,1
+205,Little Dipper,Alive,Humanoid,Tinymouth,Male,unknown,1
+206,Lizard Morty,Alive,Humanoid,Lizard-Person,Male,unknown,1
+207,Loggins,Alive,Alien,Alligator-Person,Male,unknown,3
+208,Logic,Alive,Human,,Male,unknown,1
+209,Long Sleeved Morty,unknown,Human,,Male,unknown,1
+210,Lucy,Dead,Human,,Female,Earth (Replacement Dimension),1
+211,Ma-Sha,Alive,Alien,Gazorpian,Female,Gazorpazorp,1
+212,Magma-Q,Dead,Alien,Alphabetrian,Male,Alphabetrium,1
+213,Magnesium-J,Alive,Alien,Alphabetrian,Male,Alphabetrium,1
+214,Man Painted Silver Who Makes Robot Noises,Alive,Human,,Male,unknown,1
+215,Maximums Rickimus,Dead,Human,,Male,unknown,3
+216,MC Haps,Alive,Human,,Male,Earth (C-137),3
+217,Mechanical Morty,Dead,Robot,,Male,Earth (Replacement Dimension),1
+218,Mechanical Rick,unknown,Robot,,Male,Earth (Replacement Dimension),1
+219,Mechanical Summer,unknown,Robot,,Female,Earth (Replacement Dimension),1
+220,Mega Fruit Farmer Rick,Alive,Human,,Male,unknown,1
+221,Melissa,Alive,Mythological Creature,Monster,Female,Mr. Goldenfold's dream,1
+222,Michael Denny and the Denny Singers,Alive,Human,,Male,unknown,1
+223,Michael Jenkins,Dead,Human,,Male,unknown,1
+224,Michael McLick,Alive,Human,,Male,unknown,1
+225,Michael Thompson,Alive,Humanoid,Conjoined twin,Male,unknown,1
+226,Million Ants,Dead,Animal,Sentient ant colony,Male,unknown,1
+227,Mitch,Alive,Human,,Male,Earth (Replacement Dimension),1
+228,Mohawk Guy,Dead,Human,,Male,Post-Apocalyptic Earth,1
+229,Morty Mart Manager Morty,Alive,Human,,Male,unknown,1
+230,Morty Jr.,Alive,Humanoid,Human Gazorpian,Male,Earth (Replacement Dimension),1
+231,Morty Rick,unknown,Human,,Male,unknown,1
+232,Morty Smith,Alive,Human,,Male,Earth (Evil Rick's Target Dimension),1
+233,Morty K-22,Alive,Human,,Male,Earth (K-22),1
+234,Morty Smith,Dead,Human,,Male,Earth (Replacement Dimension),1
+235,Mortytown Loco,Dead,Human,,Male,unknown,1
+236,Mr. Beauregard,Dead,Alien,Parasite,Male,unknown,1
+237,Mr. Benson,Alive,Human,,Male,Earth (Replacement Dimension),1
+238,Mr. Booby Buyer,Alive,Mythological Creature,Boobie buyer reptilian,Male,Fantasy World,1
+239,Mr. Goldenfold,Alive,Cronenberg,,Male,Earth (C-137),4
+240,Mr. Goldenfold,Alive,Human,,Male,Earth (Replacement Dimension),10
+241,Mr. Marklovitz,Alive,Human,,Male,Earth (C-137),2
+242,Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,Mr. Meeseeks Box,5
+243,Mr. Needful,Alive,Humanoid,The Devil,Male,unknown,1
+244,Mr. Poopybutthole,Alive,Poopybutthole,,Male,unknown,7
+245,Mrs. Lipkip,Alive,Human,,Female,Earth (Replacement Dimension),1
+246,Mrs. Pancakes,Alive,Human,,Female,Earth (C-137),2
+247,Amy Poopybutthole,Alive,Poopybutthole,,Female,unknown,1
+248,Mrs. Refrigerator,Dead,Alien,Parasite,Female,unknown,1
+249,Mrs. Sanchez,unknown,Human,,Female,unknown,4
+250,Mrs. Sullivan,Dead,Human,Cat controlled dead lady,Female,Earth (C-500A),1
+251,Nancy,Alive,Human,,Female,Earth (Replacement Dimension),6
+252,Noob-Noob,Alive,Poopybutthole,,Male,unknown,1
+253,Numbericon,unknown,Alien,Numbericon,unknown,unknown,1
+254,Octopus Man,Alive,Humanoid,Octopus-Person,Male,unknown,1
+255,Orthodox Jew,Alive,Human,,Male,Earth (Replacement Dimension),1
+256,Pat Gueterman,Dead,Robot,,Male,unknown,1
+257,Paul Fleishman,Alive,Human,,Male,unknown,1
+258,Pawnshop Clerk,Alive,Alien,,Male,unknown,1
+259,Pencilvester,Dead,Alien,Parasite,Male,unknown,1
+260,Phillip Jacobs,Alive,Human,,Male,unknown,1
+261,Photography Cyborg,unknown,Robot,,Male,unknown,1
+262,Photography Raptor,Dead,Alien,Parasite,unknown,unknown,1
+263,Pibbles Bodyguard,Alive,Alien,Hairy alien,Male,unknown,1
+264,Pichael Thompson,Alive,Humanoid,Conjoined twin,Male,unknown,1
+265,Pickle Rick,Alive,unknown,Pickle,Male,Earth (C-137),1
+266,Piece of Toast,Alive,unknown,Bread,Genderless,unknown,2
+267,Plumber Rick,Alive,Human,,Male,unknown,1
+268,Poncho,Dead,Human,,Male,unknown,1
+269,Presidentress of The Mega Gargantuans,Alive,Humanoid,Mega Gargantuan,Female,Mega Gargantuan Kingdom,1
+270,Prince Nebulon,Dead,Alien,Zigerion,Male,unknown,1
+271,Principal Vagina,Alive,Cronenberg,,Male,Earth (C-137),3
+272,Principal Vagina,Alive,Human,,Male,Earth (Replacement Dimension),6
+273,Purge Planet Ruler,Dead,Alien,Cat-Person,Male,Purge Planet,1
+274,Quantum Rick,unknown,Human,,Male,unknown,3
+275,Randy Dicknose,Alive,Human,,Male,unknown,1
+276,Rat Boss,Dead,Animal,Rat,unknown,Earth (Replacement Dimension),1
+277,Real Fake Doors Salesman,Alive,Human,,Male,unknown,1
+278,Regional Manager Rick,Dead,Human,,Male,unknown,1
+279,Regular Legs,Alive,Human,,Male,unknown,1
+280,Reverse Giraffe,Dead,Alien,Parasite,Male,unknown,1
+281,Reverse Rick Outrage,Dead,Human,,Male,unknown,1
+282,Revolio Clockberg Jr.,unknown,Alien,Gear-Person,Male,Gear World,3
+283,Rick D. Sanchez III,Dead,Human,,Male,unknown,1
+284,Rick Guilt Rick,unknown,Human,,Male,unknown,1
+285,Rick Prime,Dead,Human,,Male,unknown,2
+286,Rick D-99,Dead,Human,,Male,Earth (D-99),1
+287,Rick D716,Dead,Human,,Male,Earth (D716),1
+288,Rick D716-B,Alive,Human,,Male,Earth (D716-B),1
+289,Rick D716-C,Alive,Human,,Male,Earth (D716-C),1
+290,Rick Sanchez,Dead,Human,,Male,Earth (Evil Rick's Target Dimension),1
+291,Rick J-22,Alive,Human,,Male,Earth (J-22),1
+292,Rick K-22,Alive,Human,,Male,Earth (K-22),1
+293,Rick Sanchez,Dead,Human,,Male,Earth (Replacement Dimension),1
+294,Ricktiminus Sancheziminius,Dead,Human,,Male,unknown,3
+295,Riq IV,Dead,Human,,Male,unknown,3
+296,Risotto Groupon,Dead,Alien,Blue ape alien,Male,Resort Planet,1
+297,Risotto's Tentacled Henchman,Dead,Alien,Tentacle alien,Male,Resort Planet,1
+298,Robot Morty,unknown,Robot,,Male,unknown,1
+299,Robot Rick,unknown,Robot,,Male,unknown,1
+300,Roger,Dead,Human,,Male,Earth (C-137),1
+301,Ron Benson,Alive,Alien,Ring-nippled alien,Male,Unity's Planet,1
+302,Ruben,Dead,Human,,Male,Earth (C-137),1
+303,Samantha,Alive,Human,,Female,Earth (C-137),1
+304,Scary Brandon,Alive,Mythological Creature,Monster,Male,Mr. Goldenfold's dream,1
+305,Scary Glenn,Alive,Mythological Creature,Monster,Male,Mr. Goldenfold's dream,1
+306,Scary Terry,Alive,Mythological Creature,Monster,Male,Mr. Goldenfold's dream,1
+307,Scroopy Noopers,Alive,Alien,Plutonian,Male,Pluto,1
+308,Scropon,unknown,Alien,Lobster-Alien,Male,unknown,2
+309,Scrotian,Alive,Animal,Scrotian,Male,unknown,4
+310,Self-Congratulatory Jerry,unknown,Mythological Creature,Mytholog,Male,Nuptia 4,1
+311,Shimshamian,Alive,Alien,Shimshamian,Male,unknown,3
+312,Shlaammi,Alive,Alien,,unknown,unknown,1
+313,Shleemypants,Alive,unknown,Omniscient being,Male,unknown,2
+314,Shmlamantha Shmlicelli,Alive,Human,,Female,unknown,1
+315,Shmlangela Shmlobinson-Shmlower,Alive,Human,,Female,unknown,1
+316,Shmlona Shmlobinson,Alive,Human,,Female,unknown,1
+317,Shmlonathan Shmlower,Alive,Human,,Male,unknown,1
+318,Shmlony Shmlicelli,Alive,Human,,Male,unknown,1
+319,Shmooglite Runner,unknown,Alien,Animal,Male,Resort Planet,1
+320,Shnoopy Bloopers,unknown,Alien,,Male,unknown,1
+321,Shrimply Pibbles,Alive,Alien,,Male,unknown,1
+322,Simple Rick,Dead,Human,,Male,unknown,1
+323,Slaveowner,Dead,Human,,Male,Post-Apocalyptic Earth,1
+324,Sleepy Gary,Dead,Alien,Parasite,Male,unknown,1
+325,Slick Morty,Dead,Human,,Male,unknown,1
+326,Slippery Stair,Alive,Mythological Creature,Slug,Male,Fantasy World,2
+327,Slow Mobius,Alive,Humanoid,,Male,unknown,1
+328,Slow Rick,Alive,Human,,Male,unknown,1
+329,Snuffles (Snowball),Alive,Animal,Dog,Male,Earth (C-137),8
+330,Solicitor Rick,unknown,Human,,Male,unknown,2
+331,Squanchy,unknown,Alien,Cat-Person,Male,Planet Squanch,3
+332,Stacy,Alive,Human,,Female,Earth (Replacement Dimension),1
+333,Stair Goblin,Alive,Mythological Creature,Stair goblin,Genderless,unknown,3
+334,Stealy,Alive,Poopybutthole,,Male,unknown,1
+335,Steve,Alive,Human,,Male,Earth (Replacement Dimension),1
+336,Steven Phillips,Alive,Alien,Unknown-nippled alien,Male,Unity's Planet,1
+337,Stu,Dead,Alien,Zigerion,Male,unknown,1
+338,Summer Smith,Alive,Human,,Female,Earth (C-137),7
+339,Summer Smith,Alive,Human,,Female,Earth (Evil Rick's Target Dimension),1
+340,Supernova,Alive,Human,Superhuman,Female,unknown,1
+341,Taddy Mason,Alive,Human,,Male,Earth (Replacement Dimension),1
+342,Taint Washer,Alive,Human,,Male,Post-Apocalyptic Earth,1
+343,Tammy Guetermann,Alive,Cronenberg,,Female,Earth (C-137),2
+344,Tammy Guetermann,Dead,Human,,Female,Earth (Replacement Dimension),5
+345,Teacher Rick,Alive,Human,,Male,unknown,1
+346,Terry,unknown,Human,,Male,Earth (Replacement Dimension),1
+347,President Curtis,Alive,Human,,Male,Earth (Replacement Dimension),5
+348,The President of the Miniverse,Dead,Humanoid,Miniverse inhabitant,Male,Zeep Xanflorp's Miniverse,1
+349,The Scientist Formerly Known as Rick,Dead,Human,,Male,unknown,1
+350,Thomas Lipkip,unknown,Human,,Male,Earth (Replacement Dimension),1
+351,Three Unknown Things,Alive,Alien,,unknown,unknown,1
+352,Tinkles,Dead,Alien,Parasite,Female,unknown,1
+353,Tiny Rick,Dead,Human,Clone,Male,Earth (Replacement Dimension),1
+354,Toby Matthews,Alive,Human,,Male,Earth (Replacement Dimension),1
+355,Todd Crystal,Alive,Alien,Unknown-nippled alien,Male,Unity's Planet,1
+356,Tom Randolph,Alive,Human,,Male,Earth (C-137),1
+357,Tommy's Clone,Alive,Human,Clone,Male,Earth (Replacement Dimension),1
+358,Tophat Jones,Dead,Mythological Creature,Leprechaun,Male,unknown,3
+359,Tortured Morty,unknown,Human,,Male,unknown,1
+360,Toxic Morty,Dead,Humanoid,Morty's toxic side,Male,Detoxifier,1
+361,Toxic Rick,Dead,Humanoid,Rick's toxic side,Male,Detoxifier,1
+362,Traflorkian,Alive,Alien,Traflorkian,unknown,unknown,5
+363,Trandor,Alive,Alien,Krootabulan,Male,Krootabulon,1
+364,Tree Person,Dead,Humanoid,Teenyverse inhabitant,unknown,Kyle's Teenyverse,1
+365,Tricia Lange,Alive,Human,,Female,Earth (Replacement Dimension),5
+366,Trunk Morty,Alive,Humanoid,Trunk-Person,Male,Trunk World,1
+367,Trunk Man,Alive,Humanoid,Trunk-Person,Male,Trunk World,2
+368,Truth Tortoise,unknown,Mythological Creature,Omniscient being,Male,unknown,1
+369,Tusked Assassin,unknown,Alien,Tuskfish,Male,Resort Planet,1
+370,Two Guys with Handlebar Mustaches,Alive,Human,,Male,unknown,1
+371,Tumblorkian,Alive,Alien,Tumblorkian,Male,Plopstar,1
+372,Unity,Alive,Alien,Hivemind,Genderless,unknown,1
+373,Unmuscular Michael,Alive,Human,,Male,unknown,1
+374,Vampire Master,Alive,Mythological Creature,Vampire,Male,Earth (Replacement Dimension),1
+375,Vance Maximus,Dead,Human,,Male,unknown,1
+376,Veronica Ann Bennet,Alive,Alien,Gazorpian,Female,Gazorpazorp,1
+377,Voltematron,Dead,Alien,Parasite,unknown,unknown,1
+378,Wall Crawling Rick,unknown,Humanoid,Lizard-Person,Male,unknown,1
+379,Wedding Bartender,unknown,Alien,,Male,unknown,1
+380,Unknown Rick,unknown,Human,,Male,unknown,2
+381,Woman Rick,Alive,Alien,Chair,Female,unknown,1
+382,Worldender,Dead,Alien,,Male,unknown,1
+383,Yaarb,Alive,Alien,,Male,unknown,1
+384,Yellow Headed Doctor,Alive,Alien,,Male,unknown,1
+385,Yellow Shirt Rick,unknown,Human,,Male,unknown,1
+386,Zarbadar Gloonch,Dead,Alien,Drumbloxian,Female,unknown,2
+387,Zarbadar's Mytholog,unknown,Mythological Creature,Mytholog,Female,Nuptia 4,1
+388,Zeep Xanflorp,Alive,Humanoid,Microverse inhabitant,Male,Rick's Battery Microverse,1
+389,Zeta Alpha Rick,Dead,Human,,Male,unknown,4
+390,Zick Zack,Dead,Alien,Floop Floopian,Male,unknown,1
+391,Uncle Steve,Dead,Alien,Parasite,Male,unknown,1
+392,Bearded Morty,Alive,Human,,Male,unknown,2
+393,Roy,Alive,Human,Game,Male,Roy: A Life Well Lived,1
+394,Davin,Dead,Cronenberg,,Male,Earth (C-137),2
+395,Greebybobe,Alive,Alien,Greebybobe,unknown,Girvonesk,4
+396,Scary Teacher,Alive,Mythological Creature,Monster,Male,Mr. Goldenfold's dream,1
+397,Fido,Alive,Animal,Dog,Male,Snuffles' Dream,1
+398,Accountant dog,Alive,Animal,Dog,Male,Snuffles' Dream,1
+399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Giant,Male,Giant's Town,1
+400,Giant Judge,Alive,Mythological Creature,Giant,Male,Giant's Town,1
+401,Morty Jr's interviewer,Alive,Human,,Male,Earth (Replacement Dimension),1
+402,Guy from The Bachelor,Alive,Human,,Male,Earth (Replacement Dimension),1
+403,Corn detective,Dead,Humanoid,Corn-person,Male,Interdimensional Cable,1
+404,Michael Jackson,Alive,Humanoid,Phone-Person,Male,Earth (Phone Dimension),1
+405,Trunkphobic suspenders guy,Alive,Human,,Male,unknown,4
+406,Spiderweb teddy bear,Alive,Animal,Teddy Bear,unknown,Interdimensional Cable,1
+407,Regular Tyrion Lannister,Alive,Human,,Male,Interdimensional Cable,1
+408,Quick Mystery Presenter,Alive,Human,,Male,Interdimensional Cable,1
+409,Mr. Sneezy,Alive,Human,Little Human,Male,Interdimensional Cable,1
+410,Two Brothers,Alive,Human,,Male,Interdimensional Cable,1
+411,Alien Mexican Armada,unknown,Alien,Mexican,Male,Interdimensional Cable,1
+412,Giant Cat Monster,unknown,Animal,Giant Cat Monster,unknown,Interdimensional Cable,1
+413,Old Women,unknown,Human,Old Amazons,Female,Interdimensional Cable,1
+414,Trunkphobic guy,Alive,Human,,Male,Interdimensional Cable,1
+415,Pro trunk people marriage guy,Alive,Human,,Male,Interdimensional Cable,1
+416,Muscular Mannie,Alive,Human,Mannie,Male,Interdimensional Cable,1
+417,Baby Legs Chief,Alive,Human,,Male,Interdimensional Cable,1
+418,Mrs. Sullivan's Boyfriend,Alive,Human,Necrophiliac,Male,Interdimensional Cable,1
+419,Plutonian Hostess,Alive,Alien,Plutonian,Female,Pluto,1
+420,Plutonian Host,Alive,Alien,Plutonian,Male,Pluto,1
+421,Rich Plutonian,Alive,Alien,Plutonian,Female,Pluto,1
+422,Rich Plutonian,Alive,Alien,Plutonian,Male,Pluto,1
+423,Synthetic Laser Eels,Alive,Animal,Eel,unknown,Earth (Replacement Dimension),1
+424,Pizza-person,Alive,Humanoid,Pizza,Male,Earth (Pizza Dimension),1
+425,Pizza-person,Alive,Humanoid,Pizza,Male,Earth (Pizza Dimension),1
+426,Greasy Grandma,Alive,Human,Grandma,Female,Greasy Grandma World,1
+427,Phone-person,Alive,Humanoid,Phone,Male,Earth (Phone Dimension),1
+428,Phone-person,Alive,Humanoid,Phone,Male,Earth (Phone Dimension),1
+429,Chair-person,Alive,Humanoid,Chair,Male,Earth (Chair Dimension),1
+430,Chair-person,Alive,Humanoid,Chair,Male,Earth (Chair Dimension),1
+431,Chair-homeless,Alive,Humanoid,Chair,Male,Earth (Chair Dimension),1
+432,Chair-waiter,Alive,Humanoid,Chair,Male,Earth (Chair Dimension),1
+433,Doopidoo,Alive,Animal,Doopidoo,unknown,unknown,1
+434,Super Weird Rick,unknown,Human,,Male,unknown,1
+435,Pripudlian,Alive,Alien,Pripudlian,unknown,unknown,4
+436,Giant Testicle Monster,Alive,Alien,,unknown,Testicle Monster Dimension,2
+437,Michael,Alive,Human,,Male,Earth (Replacement Dimension),1
+438,Michael's Lawyer,Alive,Human,,Male,Earth (Replacement Dimension),1
+439,Veterinary,Alive,Human,,Female,Earth (Replacement Dimension),1
+440,Veterinary Nurse,Alive,Human,,Male,Earth (Replacement Dimension),1
+441,Bearded Jerry,Alive,Human,,Male,unknown,1
+442,Shaved Head Jerry,Alive,Human,,Male,unknown,1
+443,Tank Top Jerry,Alive,Human,,Male,unknown,1
+444,Pink Polo Shirt Jerry,Alive,Human,,Male,unknown,1
+445,Jerryboree Keeper,Alive,Alien,,Female,unknown,1
+446,Jerryboree Receptionist,Alive,Alien,,Male,unknown,1
+447,Anchor Gear,Alive,Alien,Gear-Person,Male,Gear World,1
+448,Gear Cop,Dead,Alien,Gear-Person,Male,Gear World,1
+449,Roy's Mum,Alive,Human,Game,Female,Roy: A Life Well Lived,1
+450,Roy's Wife,Alive,Human,Game,Male,Roy: A Life Well Lived,1
+451,Roy's Son,Alive,Human,Game,Male,Roy: A Life Well Lived,1
+452,Simon,Alive,Human,,Male,Earth (Replacement Dimension),1
+453,Vampire Master's Assistant,Alive,Mythological Creature,Vampire,Male,unknown,1
+454,Arbolian Mentirososian,Alive,Alien,,unknown,Árboles Mentirosos,3
+455,St. Gloopy Noops Nurse,Alive,Alien,,Female,unknown,1
+456,Nano Doctor,Alive,Alien,Nano Alien,Male,unknown,1
+457,Funny Songs Presenter,Alive,Human,,Male,unknown,1
+458,Tax Attorney,unknown,Human,,Male,unknown,1
+459,Butthole Ice Cream Guy,Alive,Alien,,Male,unknown,1
+460,Traflorkian Journalist,Alive,Alien,Traflorkian,Male,unknown,1
+461,Communication's Responsible Rick,Dead,Human,,Male,unknown,1
+462,Teleportation's Responsible Rick,unknown,Human,,Male,unknown,1
+463,SEAL Team Rick,Dead,Human,,Male,unknown,1
+464,SEAL Team Rick,Dead,Human,,Male,unknown,1
+465,SEAL Team Rick,Dead,Human,,Male,unknown,1
+466,SEAL Team Rick,Dead,Human,,Male,unknown,1
+467,Morphizer-XE Customer Support,Alive,Alien,,Male,unknown,1
+468,Morphizer-XE Customer Support,Alive,Alien,,Male,unknown,1
+469,Morphizer-XE Customer Support,unknown,Alien,,Male,unknown,1
+470,Alien Spa Employee,Alive,Alien,,Male,unknown,1
+471,Little Voltron,Alive,Robot,,Genderless,unknown,1
+472,Baby Rick,Alive,Human,Clone,Male,Citadel of Ricks,1
+473,Bartender Morty,Alive,Human,,Male,unknown,1
+474,Dancer Cowboy Morty,Alive,Human,,Male,unknown,1
+475,Dancer Morty,Alive,Human,,Male,unknown,1
+476,Flower Morty,Alive,Human,Human with a flower in his head,Male,unknown,1
+477,Hairdresser Rick,Alive,Human,,Male,unknown,1
+478,Journalist Rick,Alive,Human,,Male,unknown,1
+479,Private Sector Rick,Dead,Human,,Male,unknown,1
+480,Purple Morty,Alive,Alien,,Male,unknown,1
+481,Retired General Rick,unknown,Human,,Male,unknown,1
+482,Secret Service Rick,Alive,Human,,Male,unknown,1
+483,Steve Jobs Rick,Alive,Human,,Male,unknown,1
+484,Sheik Rick,Dead,Human,,Male,unknown,1
+485,Modern Rick,Alive,Human,,Male,unknown,1
+486,Tan Rick,Dead,Human,,Male,unknown,1
+487,Visor Rick,Dead,Human,,Male,unknown,1
+488,Colonial Rick,Dead,Human,,Male,unknown,1
+489,P-Coat Rick,Dead,Human,,Male,unknown,1
+490,Chang,Alive,Human,,Male,unknown,1
+491,Dr. Eleanor Arroway,Alive,Human,,Female,unknown,1
+492,Varrix,Alive,Alien,,unknown,unknown,1
+493,Secretary of the Interior,Alive,Human,,Male,Earth (Replacement Dimension),1
+494,Crystal Poacher,Dead,Alien,,Male,unknown,1
+495,Crystal Poacher,Dead,Alien,,Male,unknown,1
+496,Crystal Poacher,Dead,Alien,,Male,unknown,1
+497,Hologram Rick,Dead,Humanoid,Hologram,Male,Earth (Replacement Dimension),1
+498,Fascist Rick,Dead,Human,,Male,Earth (Fascist Dimension),1
+499,Fascist Morty,Dead,Human,,Male,Earth (Fascist Dimension),1
+500,Fascist Mr. President,Alive,Human,,Male,Earth (Fascist Dimension),1
+501,Fascist Rick’s Clone,Dead,Human,Clone,Male,Earth (Fascist Dimension),1
+502,Revolio Clockberg Jr.,Dead,Alien,Gear-Person,Male,Earth (Fascist Dimension),1
+503,Fascist Shrimp Rick,Alive,Animal,Shrimp,Male,Earth (Fascist Shrimp Dimension),1
+504,Fascist Shrimp Rick’s Clone,Dead,Animal,Shrimp,Male,Earth (Fascist Shrimp Dimension),1
+505,Fascist Shrimp Morty,Alive,Animal,Shrimp,Male,Earth (Fascist Shrimp Dimension),1
+506,Fascist Shrimp SS,Alive,Animal,Shrimp,Male,Earth (Fascist Shrimp Dimension),1
+507,Fascist Teddy Bear Rick,Alive,Animal,Teddy Bear,Male,Earth (Fascist Teddy Bear Dimension),1
+508,Fascist Teddy Bear Rick’s Clone,Dead,Animal,Teddy Bear,Male,Earth (Fascist Teddy Bear Dimension),1
+509,Bully,unknown,Human,,Male,Earth (Replacement Dimension),1
+510,Anchorman,Alive,Human,,Male,Earth (Replacement Dimension),1
+511,Anchorwoman,Alive,Human,,Female,Earth (Replacement Dimension),1
+512,Morty’s Lawyer,Alive,Human,,Male,Earth (Replacement Dimension),1
+513,Judge,Dead,Human,,Female,Earth (Replacement Dimension),1
+514,Public Opinion Judge,Alive,Human,,Female,Earth (Replacement Dimension),1
+515,Caterpillar Mr. Goldenfold,Dead,Animal,Caterpillar,Male,Earth (Wasp Dimension),1
+516,Wasp Rick,Alive,Animal,Wasp,Male,Earth (Wasp Dimension),1
+517,Wasp Rick’s Clone,unknown,Animal,Wasp,Male,Earth (Wasp Dimension),1
+518,Wasp Morty,Alive,Animal,Wasp,Male,Earth (Wasp Dimension),1
+519,Wasp Summer,Alive,Animal,Wasp,Female,Earth (Wasp Dimension),1
+520,Wasp Jerry,Alive,Animal,Wasp,Male,Earth (Wasp Dimension),1
+521,Wasp Beth,Alive,Animal,Wasp,Female,Earth (Wasp Dimension),1
+522,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,Caterpillar,unknown,Earth (Wasp Dimension),1
+523,Boglin,unknown,unknown,Toy,unknown,Earth (Replacement Dimension),1
+524,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,Mr. Meeseeks Box,1
+525,Glootie,Alive,Alien,Monogatron,Male,unknown,1
+526,Danny Publitz,Alive,Human,,Male,Earth (Replacement Dimension),1
+527,Mothership Intern,Alive,Alien,Monogatron,Male,unknown,1
+528,Monogatron Leader,Alive,Alien,Monogatron,Male,unknown,1
+529,Lizard,Dead,Alien,Lizard,Male,Midland Quasar,1
+530,Deliverance,Dead,Robot,,Genderless,Midland Quasar,1
+531,Tony,Dead,Alien,,Male,unknown,1
+532,Tony’s Wife,Dead,Alien,,Female,Globaflyn,1
+533,Monogatron Queen,Alive,Alien,Monogatron,Female,unknown,1
+534,Tony's Dad,Alive,Alien,,Male,unknown,1
+535,Jeff,Alive,Human,,Male,Earth (Replacement Dimension),1
+536,Josiah,Alive,Human,,Male,Earth (Replacement Dimension),1
+537,Maggie,Alive,Human,,Female,Earth (Replacement Dimension),1
+538,Priest Witherspoon,Alive,Human,,Male,Earth (Replacement Dimension),1
+539,Richard,Alive,Human,,Male,Earth (Replacement Dimension),1
+540,Running Bird,Alive,Human,,Male,Earth (Replacement Dimension),1
+541,Secretary at Tony's,Alive,Alien,,Female,unknown,1
+542,Mountain Sweat Jerry,Alive,Human,,Male,Globaflyn,1
+543,Vermigurber,Alive,Alien,Fly,Male,unknown,1
+544,Miles Knightly,Dead,Alien,,Male,unknown,1
+545,Heist-Con Receptionist,Alive,Alien,,Female,unknown,1
+546,Angie Flint,Alive,Human,Cyborg,Female,unknown,1
+547,Glar,Alive,Alien,,Male,unknown,1
+548,Truckula,Alive,Mythological Creature,Vampire,Male,unknown,1
+549,Snake Arms,Alive,Alien,,Male,unknown,1
+550,Double Microwawe,Alive,Humanoid,Cyborg,Male,unknown,1
+551,Monitor Lord,Alive,Alien,,Male,unknown,1
+552,Key Catcher,Alive,Alien,,Female,unknown,1
+553,The Shapeshiftress,Alive,Alien,Shapeshifter,Female,unknown,1
+554,Heistotron,Dead,Robot,,Genderless,Earth (Replacement Dimension),1
+555,Randotron,Dead,Robot,,Genderless,Earth (Replacement Dimension),1
+556,Hephaestus,Alive,Mythological Creature,God,Male,Mount Olympus,1
+557,Ventriloquiver,Alive,Humanoid,Dummy,Female,Plitzville Montana,1
+558,Elon Tusk,Alive,Human,Human with tusks,Male,Earth (Tusk Dimension),1
+559,Gramuflackian Anchorman,Dead,Alien,Gramuflackian,Male,Gramuflack,1
+560,Gramuflackian General,Dead,Alien,Gramuflackian,Male,Gramuflack,1
+561,Netflix Executive,Alive,Human,,Male,Earth (Replacement Dimension),1
+562,Balthromaw,Alive,Mythological Creature,Dragon,Male,Draygon,1
+563,The Wizard,Dead,Human,,Male,Draygon,1
+564,Talking Cat,Alive,Animal,,Male,unknown,1
+565,Debrah,Alive,Mythological Creature,Dragon,Male,Draygon,1
+566,Debrah’s Partner,Alive,Mythological Creature,Dragon,Male,Draygon,1
+567,Michael,Alive,Mythological Creature,Dragon,Male,Draygon,1
+568,Slut Dragon,Alive,Mythological Creature,Dragon,Male,Draygon,1
+569,Shadow Jacker,Alive,Mythological Creature,Dragon,Male,Draygon,1
+570,Chachi,Dead,Alien,,Male,unknown,1
+571,Slippy,Alive,Animal,Snake,Female,Earth (Replacement Dimension),1
+572,Robot Snake,unknown,Robot,Snake,Genderless,Snake Planet,1
+573,Snake Hitler,Dead,Animal,Snake,Male,Snake Planet,1
+574,Snake Lincoln,Dead,Animal,Snake,Male,Snake Planet,1
+575,Snake Resistance Robot,Dead,Robot,Human-Snake hybrid,Genderless,Snake Planet,1
+576,Snake Linguist,unknown,Animal,Snake,Male,Snake Planet,1
+577,Snake Terminator,unknown,Robot,Snake,Male,Snake Planet,1
+578,Snake Soldier,Alive,Animal,Snake,Male,Snake Planet,1
+579,Snake with Legs,Alive,Animal,Snake,Male,Snake Planet,1
+580,Secret Service Snake,Alive,Animal,Snake,Male,Snake Planet,1
+581,Anchosnake,Alive,Animal,Snake,Male,Snake Planet,1
+582,Anchosnake,Alive,Animal,Snake,Female,Snake Planet,1
+583,80's snake,unknown,Animal,Snake,Male,Snake Planet,1
+584,Bar Customer,Alive,Human,,Male,Earth (Replacement Dimension),1
+585,Bartender,Alive,Human,,Female,Earth (Replacement Dimension),1
+586,PC Basketball Player,Alive,Human,,Male,Earth (Replacement Dimension),1
+587,Cavesnake,Dead,Animal,Snake,Male,Snake Planet,1
+588,Pet Shop Employee,Alive,Human,,Male,Earth (Replacement Dimension),1
+589,Snake Reporter,Alive,Animal,Snake,Male,Snake Planet,1
+590,High Pilot,unknown,Human,,Male,Earth (Replacement Dimension),1
+591,High Pilot,unknown,Human,,Male,Earth (Replacement Dimension),1
+592,Phoenixperson,Dead,Alien,Cyborg,Male,Bird World,3
+593,Tickets Please Guy,Dead,Human,Soulless Puppet,Male,Story Train,1
+594,Floaty Bloody Man,Dead,Human,Half Soulless Puppet,Male,Tickets Please Guy Nightmare,1
+595,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Soulless Puppet,Male,Tickets Please Guy Nightmare,1
+596,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Soulless Puppet,Female,Tickets Please Guy Nightmare,1
+597,Abradolf Lincler,Alive,Human,Soulless Puppet,Male,Story Train,1
+598,Biblesaurus,Alive,Animal,Soulless Puppet,Male,Story Train,1
+599,Birdperson,Alive,Alien,Soulless Puppet,Male,Story Train,1
+600,Cats Fan,Alive,Alien,Soulless Puppet,Female,Story Train,1
+601,Christmas Storyteller,Alive,Alien,Soulless Puppet,Male,Story Train,1
+602,Cookies Guy,Alive,Human,Soulless Puppet,Male,Morty’s Story,1
+603,Crossy,Alive,unknown,Soulless Puppet,Genderless,Ricks’s Story,1
+604,Female Scorpion,Dead,Animal,Soulless Puppet,Female,Morty’s Story,1
+605,Floaty Bloody Man’s Daughter,Dead,Human,Soulless Puppet,Female,Tickets Please Guy Nightmare,1
+606,Goomby,Alive,Alien,Soulless Puppet,Male,Story Train,1
+607,Hairspray Fan,Alive,Alien,Soulless Puppet,Female,Story Train,1
+608,Jesus Christ,Alive,Human,Soulless Puppet,Male,Ricks’s Story,1
+609,Josh,Dead,Human,Soulless Puppet,Male,Tickets Please Guy Nightmare,1
+610,Josh's Sister,Dead,Human,Soulless Puppet,Female,Tickets Please Guy Nightmare,1
+611,Leah,Alive,unknown,Soulless Puppet,Female,Story Train,1
+612,Marcus,Alive,Human,Soulless Puppet,Male,Story Train,1
+613,Mike Johnson,Alive,Human,Soulless Puppet,Male,Morty’s Story,1
+614,Mr. Celery & Friends,Alive,unknown,Soulless Puppet,Genderless,Ricks’s Story,1
+615,Musical Fan,Alive,Alien,Soulless Puppet,Male,Story Train,1
+616,Phantom of the Opera Fan,Alive,Alien,Soulless Puppet,Male,Story Train,1
+617,Phoenixperson,Alive,Alien,Soulless Puppet,Male,Story Train,1
+618,Private Smith,unknown,Human,Soulless Puppet,Male,Story Train,1
+619,Professor Sanchez,Dead,Human,Soulless Puppet,Male,Story Train,1
+620,Ramamama Lord,Alive,Human,Soulless Puppet,Male,Story Train,1
+621,Ruth Bader Ginsburg,Alive,Human,Soulless Puppet,Female,Morty’s Story,1
+622,Sarge,Alive,Human,Soulless Puppet,Male,Story Train,1
+623,Shrek The Musical Fan,Alive,Alien,Soulless Puppet,Male,Story Train,1
+624,Snuffles,Alive,Animal,Soulless Puppet,Male,Story Train,1
+625,Storylord,Alive,Human,Soulless Puppet,Male,Story Train,1
+626,Tammy Guetermann,Alive,Human,Soulless Puppet,Female,Story Train,1
+627,The Concept of Time,Alive,unknown,Soulless Puppet,Genderless,Story Train,1
+628,Beth Smith,Alive,Human,Soulless Puppet,Female,Morty’s Story,1
+629,Summer Smith,Alive,Human,Soulless Puppet,Female,Morty’s Story,1
+630,Morty Smith,Alive,Human,Soulless Puppet,Male,Story Train,1
+631,Rick Sanchez,Alive,Human,Soulless Puppet,Male,Story Train,1
+632,Train Cop,Dead,Human,Soulless Puppet,Male,Story Train,1
+633,Train Cops,Alive,Human,Soulless Puppet,Female,Story Train,1
+634,Train Cops Instructor,Dead,Human,Soulless Puppet,Male,Story Train,1
+635,Darth Poopybutthole,Alive,Poopybutthole,Soulless Puppet,Male,Ricks’s Story,1
+636,Evil Morty,Alive,Human,Soulless Puppet,Male,Ricks’s Story,1
+637,Morty’s Disguise,Alive,Human,Soulless Puppet,Female,Story Train,1
+638,Rick’s Disguise,Alive,Human,Soulless Puppet,Male,Story Train,1
+639,Uncle Nibbles,Dead,Alien,Soulless Puppet,Male,Tickets Please Guy Nightmare,1
+640,Angry Glorzo,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+641,Bruce,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+642,Council of Glorzos Member,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+643,Council of Glorzos Member,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+644,Old Glorzo,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+645,Shane,unknown,Alien,Glorzo,Male,Glorzo Asteroid,1
+646,Steve,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+647,Troy,Dead,Alien,Glorzo,Male,Glorzo Asteroid,1
+648,Crystal Dealers Boss,Dead,Alien,,Male,unknown,1
+649,Crystal Dealer,Dead,Alien,,Male,unknown,1
+650,Crystal Dealer,Dead,Alien,,Male,unknown,1
+651,Crystal Dealer,Dead,Alien,,Male,unknown,1
+652,SWAT Officer,Dead,Human,,Male,Merged Universe,1
+653,Plane Crash Survivor,unknown,Human,,Female,Near-Duplicate Reality,1
+654,Plane Crash Survivor,unknown,Human,,Male,Near-Duplicate Reality,1
+655,Heroine Keith,Alive,Human,,Male,Near-Duplicate Reality,1
+656,Impervious to Acid SWAT Officer,Dead,Human,,Male,Merged Universe,1
+657,Johnny Carson,Alive,Human,,Male,Merged Universe,1
+658,Sonia Sotomayor,Alive,Human,,Female,Merged Universe,1
+659,Morty’s Father-in-law,Alive,Human,,Male,Near-Duplicate Reality,1
+660,Morty’s Mother-in-law,Alive,Human,,Female,Near-Duplicate Reality,1
+661,Morty’s Girlfriend,Alive,Human,,Female,Near-Duplicate Reality,1
+662,Gaia,Alive,unknown,Planet,Female,Gaia,1
+663,Reggie,Dead,Mythological Creature,Zeus,Male,Mount Olympus,1
+664,Ticktock,unknown,Humanoid,Clay-Person,Genderless,Gaia,1
+665,Florflock,Alive,Humanoid,Clay-Person,Genderless,Gaia,1
+666,Squeeb,Alive,Humanoid,Clay-Person,Genderless,Gaia,1
+667,Defiance Beth,Alive,Human,Clone,Female,Earth (Replacement Dimension),2
+668,Defiance Squanchette,Alive,Alien,Cat-Person,Female,Planet Squanch,1
+669,Defiance Doctor,Alive,Alien,,Male,unknown,1
+670,New Improved Galactic Federation Guard,Dead,Alien,Gromflomite,Male,Gromflom Prime,1
+671,New Improved Galactic Federation Guard,Dead,Alien,Gromflomite,Male,Gromflom Prime,1
+672,Mr. Nimbus,Alive,Mythological Creature,Sexy Aquaman,Male,The Ocean,1
+673,Hoovy,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+674,Bova,Dead,Humanoid,Narnian,Female,Narnia Dimension,1
+675,Japheth,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+676,Japheth's Middle Son,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+677,Japheth's Eldest Son,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+678,Japheth's Youngest Son,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+679,Japheth's Grandson,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+680,Adam,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+681,Adam's Mother,Dead,Humanoid,Narnian,Female,Narnia Dimension,1
+682,Warlock,Dead,Humanoid,Narnian,Male,Narnia Dimension,1
+683,Evolved Narnian,Alive,Humanoid,Narnian,Male,Narnia Dimension,1
+684,Mr. Nimbus Secretary,Alive,Animal,Starfish,Female,The Ocean,1
+685,Evolved Narnian Disguised as Morty,Alive,Humanoid,Narnian,Male,Narnia Dimension,1
+686,Mr. Nimbus' Squid,Dead,Animal,Squid,Male,The Ocean,1
+687,Scarecrow Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+688,Scarecrow Summer,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+689,Scarecrow Jerry,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+690,Scarecrow Morty,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+691,Scarecrow Beth,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+692,Glockenspiel Jerry,Alive,Robot,Decoy,Male,Earth (Replacement Dimension),1
+693,Glockenspiel Beth,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+694,Glockenspiel Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+695,Glockenspiel Summer,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+696,Glockenspiel Morty,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+697,Wicker Beth,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+698,Wicker Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+699,Wicker Morty,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+700,Wicker Summer,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+701,Metal Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+702,Gun Brain Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+703,Mr. Always Wants to be Hunted,Alive,Poopybutthole,,Male,unknown,1
+704,Squid Costume Beth,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+705,Squid Costume Jerry,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+706,Squid Costume Morty,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+707,Squid Costume Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+708,Squid Costume Summer,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+709,Dracula,Alive,Mythological Creature,Vampire,Male,Interdimensional Cable,1
+710,Steve,Alive,Human,,Male,Earth (Replacement Dimension),1
+711,When Wolf,Alive,Mythological Creature,Whenwolf,Male,Interdimensional Cable,1
+712,Too Cute to Murder Beth,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+713,Too Cute to Murder Rick,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+714,Too Cute to Murder Jerry,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+715,Too Cute to Murder Morty,Dead,Robot,Decoy,Male,Earth (Replacement Dimension),1
+716,Too Cute to Murder Summer,Dead,Robot,Decoy,Female,Earth (Replacement Dimension),1
+717,Planetina,Alive,Humanoid,Summon,Female,Elemental Rings,1
+718,Daphne,Alive,Alien,Morglutzian,Female,Morglutz,1
+719,Diesel Weasel,Alive,Animal,Weasel,Male,Earth (Replacement Dimension),1
+720,Eddie,Dead,Human,,Male,Earth (Replacement Dimension),1
+721,Xing Ho,Dead,Human,,Female,Earth (Replacement Dimension),1
+722,Air Tina-Teer,Dead,Human,,Female,Earth (Replacement Dimension),1
+723,Water Tina-Teer,Dead,Human,,Male,Earth (Replacement Dimension),1
+724,Planetina Buyer,Dead,Human,,Male,Earth (Replacement Dimension),1
+725,Tony Galopagus,Alive,Human,,Male,Earth (Replacement Dimension),1
+726,Sticky,Alive,unknown,Super Sperm Monster,Male,Morty,1
+727,Professor Shabooboo,Dead,Human,,Male,Earth (Replacement Dimension),1
+728,Sperm Queen,Dead,unknown,Super Sperm Monster,Female,Morty,1
+729,CHUD King,Alive,Animal,CHUD,Male,Earth (Replacement Dimension),1
+730,Princess Ponietta,Alive,Animal,CHUD,Female,Earth (Replacement Dimension),1
+731,Naruto Smith,Alive,Humanoid,Giant Incest Baby,Male,Earth (Replacement Dimension),2
+732,Blazen,Dead,Human,,Male,Earth (Replacement Dimension),1
+733,Kathy Ireland,Alive,Human,,Female,Earth (Replacement Dimension),1
+734,Amazing Johnathan,Alive,Human,,Male,Earth (Replacement Dimension),1
+735,Foal Sanchez,Alive,Humanoid,CHUD Human Mix,unknown,Earth (Replacement Dimension),1
+736,Spaceman,Dead,Human,,Male,Earth (Replacement Dimension),1
+737,Cirque du Soleil Zumanity Member,Alive,Human,,Female,Near-Duplicate Reality,1
+738,Cirque du Soleil Zumanity Member,Alive,Human,,Male,Earth (Replacement Dimension),1
+739,Cirque du Soleil Zumanity Member,Alive,Human,,Female,Earth (Replacement Dimension),1
+740,Cirque du Soleil Zumanity Member,Dead,Human,,Female,Earth (Replacement Dimension),1
+741,Cirque du Soleil Zumanity Member,Alive,Human,,Female,Earth (Replacement Dimension),1
+742,Bruce Chutback,Alive,Human,,Male,Earth (Replacement Dimension),1
+743,Alyson Hannigan,Dead,Alien,,Female,unknown,1
+744,Cenobite,unknown,Mythological Creature,Demon,Male,Hell,1
+745,Cenobite,unknown,Mythological Creature,Demon,Female,Hell,1
+746,Cenobite,unknown,Mythological Creature,Demon,Male,Hell,1
+747,Cenobite,unknown,Mythological Creature,Demon,Male,Hell,1
+748,Cenobite,unknown,Mythological Creature,Demon,Male,Hell,1
+749,Coat Rack Head,unknown,Mythological Creature,Demon,Male,Hell,1
+750,Mousetrap Nipples,unknown,Mythological Creature,Demon,Male,Hell,1
+751,Changeformer,Dead,Robot,Changeformer,Male,Space Tahoe,1
+752,Changeformer,Dead,Robot,Changeformer,Male,Space Tahoe,1
+753,Space Cruiser,Alive,Robot,Artificial Intelligence,Female,Earth (Replacement Dimension),2
+754,Coop,Alive,Human,,Male,Earth (Replacement Dimension),1
+755,Dwayne,Alive,Human,,Male,Earth (Replacement Dimension),1
+756,Franklin D. Roosevelt,Dead,Humanoid,Guinea Pig for the Polio Vaccine,Male,Earth (Replacement Dimension),1
+757,President's General,Alive,Human,,Male,Earth (Replacement Dimension),2
+758,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,,Female,France,1
+759,Turkey Morty,Alive,Animal,Turkey,Male,Earth (Replacement Dimension),1
+760,Turkey Rick,Alive,Animal,Turkey,Male,Earth (Replacement Dimension),1
+761,Turkey President Curtis,Alive,Animal,Turkey,Male,Earth (Replacement Dimension),1
+762,Martínez,Dead,Animal,Turkey,Male,Earth (Replacement Dimension),1
+763,Marvin,Alive,Human,,Male,Earth (Replacement Dimension),1
+764,Jackey,Alive,Human,,Male,Earth (Replacement Dimension),1
+765,Native Alien,Alive,Alien,,Male,unknown,1
+766,Pilgrim Alien,Alive,Alien,,Male,unknown,1
+767,President Turkey,Dead,Humanoid,Turkey Human Mix,Male,Earth (Replacement Dimension),1
+768,Mary-Lou,Alive,Human,,Female,Earth (Replacement Dimension),1
+769,Big Fat rick,unknown,Human,,Male,unknown,1
+770,Hothead Rick,Dead,Human,,Male,unknown,1
+771,Ricardo Montoya,unknown,Human,,Male,unknown,1
+772,Wrap-it-up Little Rick,Dead,Human,,Male,unknown,1
+773,Yo-yo Rick,unknown,Human,,Male,unknown,1
+774,Voiceoverian,Dead,Alien,Parasite,unknown,unknown,1
+775,Voiceoverian,Dead,Alien,Parasite,unknown,unknown,1
+776,Gotron Pilot,Dead,Human,Anime,Male,unknown,1
+777,Gotron Pilot,Dead,Human,Anime,Male,unknown,1
+778,Gotron Pilot,Dead,Human,Anime,Male,unknown,1
+779,Young Memory Rick,Alive,Human,Memory,Male,Birdperson's Consciousness,1
+780,Memory Tammy,Dead,Human,Memory,Female,Birdperson's Consciousness,1
+781,Rick's Garage,Alive,Robot,Artificial Intelligence,Female,Earth (Replacement Dimension),1
+782,Memory Squanchy,Dead,Alien,Memory,Male,Birdperson's Consciousness,1
+783,Memory Rick,Dead,Human,Memory,Male,Birdperson's Consciousness,1
+784,Memory Rick,Dead,Human,Memory,Male,Birdperson's Consciousness,1
+785,Memory Geardude,Dead,Alien,Memory,Male,Birdperson's Consciousness,1
+786,Birdperson & Tammy's Child,Alive,Humanoid,Bird-Person Human Mix,Female,Earth (Replacement Dimension),1
+787,Two Crows,Alive,Animal,Crow,unknown,Earth (Replacement Dimension),2
+788,Mr. Cookie President,Alive,Alien,Cookie,Male,unknown,1
+789,Nick,Dead,Human,,Male,Earth (Replacement Dimension),1
+790,Harold (Garbage Goober),Alive,Alien,,Male,unknown,1
+791,Harold's Wife,Alive,Alien,,Female,unknown,1
+792,Alien Crow,Dead,Alien,Crow,Male,Avian Planet,1
+793,Alien Crow,Dead,Alien,Crow,Female,Avian Planet,1
+794,Samansky,Dead,Alien,Normal Size Bug,Male,Normal Size Bug Dimension,1
+795,Palicki,Alive,Alien,Normal Size Bug,Male,Normal Size Bug Dimension,1
+796,Sarge,Alive,Alien,Normal Size Bug,Male,Normal Size Bug Dimension,1
+797,Slartivartian,Dead,Alien,Slartivartian,Male,Slartivart,1
+798,Ferkusian,Alive,Alien,Ferkusian,Male,Ferkus 9,1
+799,Morglutzian,Dead,Alien,Morglutzian,Male,Morglutz,1
+800,Super Turkey,Dead,Humanoid,Turkey Human Mix,Male,Earth (Replacement Dimension),1
+801,7+7 Years Old Morty,unknown,Human,,Male,Citadel of Ricks,1
+802,26 Years Old Morty,Dead,Human,,Male,Citadel of Ricks,1
+803,40 Years Old Morty,unknown,Human,,Male,Citadel of Ricks,1
+804,Andy,unknown,Human,Mascot,Male,unknown,1
+805,Baby Mouse Skin Morty,Alive,Human,,Male,Citadel of Ricks,1
+806,Metaphor for Capitalism,Dead,Humanoid,,Male,Citadel of Ricks,1
+807,Beth Sanchez,Dead,Human,,Female,Earth (C-137),1
+808,Crow Scare,Alive,Humanoid,Scarecrow,Male,Rick and Two Crows Planet,1
+809,Pussifer,Dead,Animal,Tiger,Male,Rick and Two Crows Planet,1
+810,Stan Lee Rick,unknown,Human,,Male,unknown,1
+811,Re-Build-a-Morty Morty,unknown,Human,,Male,unknown,1
+812,Deformed Morty,Dead,Humanoid,,Male,Citadel of Ricks,1
+813,Crow Horse,Alive,Robot,Crow Horse,unknown,Rick and Two Crows Planet,1
+814,Bald Rick,Dead,Human,,Male,unknown,1
+815,Punk Rick,Dead,Human,,Male,unknown,1
+816,Party Rick,Dead,Human,,Male,unknown,1
+817,Scar Rick,Dead,Human,,Male,unknown,1
+818,Long Hair Rick,unknown,Human,,Male,unknown,1
+819,Redhead Rick,Dead,Human,,Male,unknown,1
+820,Redhead Morty,Dead,Human,,Male,unknown,1
+821,Gotron,unknown,Robot,Ferret Robot,Genderless,Earth (Replacement Dimension),1
+822,Young Jerry,unknown,Human,,Male,Earth (Unknown dimension),1
+823,Young Beth,unknown,Human,,Female,Earth (Unknown dimension),1
+824,Young Beth,unknown,Human,,Female,Earth (Unknown dimension),1
+825,Young Jerry,unknown,Human,,Male,Earth (Unknown dimension),1
+826,Butter Robot,Alive,Robot,Passing Butter Robot,Genderless,Earth (Replacement Dimension),1
